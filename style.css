@@ -6,9 +6,9 @@
 .marginleft{
     margin-left: auto;
 }
-.nav-link {
-    color: black;
-    font-family: "Roboto", sans-serif;
+#navSection{
+    color:#000000;
+    font-family: "Roboto";
 }
 
 .background-pic{
